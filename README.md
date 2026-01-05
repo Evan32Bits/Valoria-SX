@@ -3,9 +3,9 @@
 ## Roadmap
 
 ### Current Version (v0.3)
-- Core functionality
+- Pause menu [ OPEN_MAP ❌ | OPEN_SETTINGS ✅ | OPEN_SHOP ✅ | QUIT_SERVER ✅ ]
 - Inventory [ DROP ✅ | GIVE ❌ | USE ✅ ]
-- Documentation
+- Documentation [ ~20% ]
 
 ### Upcoming (v0.4)
 - Performance improvements
