@@ -1,4 +1,6 @@
-# VALORIA SX [![Discord - 2 Members](https://img.shields.io/badge/Discord-2_Members-black?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/g9HNXUxmht)
+[![Discord - 2 Members](https://img.shields.io/badge/Discord-2_Members-black?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/g9HNXUxmht)
+[![Discord - 2 Members](https://img.shields.io/badge/Discord-2_Members-black?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/g9HNXUxmht)
+# VALORIA SX
 
 **VALORIA SX** is a modular and lightweight framework designed to enhance FiveM servers with clean UI, optimized systems, and a modern gameplay experience.
 Each component is built to be standalone or easily integrated with others, allowing server owners to customize their setup without unnecessary complexity.
