@@ -1,6 +1,6 @@
 # VALORIA SX
-<a href='https://discord.gg/g9HNXUxmht' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/My_Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=9C63FF&color=9C85FF'/></a>
-<a href='https://discord.gg/g9HNXUxmht' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/My_Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=9C63FF&color=9C85FF'/></a>
+<a href='https://discord.gg/g9HNXUxmht' style="padding: 4px 8px; border-radius: 8px; background: white; color: black; font-size: 14px; text-decoration: none; font-weight: bold;"  target="_blank">MY DISCORD</a>
+
 ## 🖼️ Screenshots
 ### Comming...
 
