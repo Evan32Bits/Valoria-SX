@@ -1,5 +1,11 @@
 # VALORIA SX
 
+VALORIA SX is a modular and lightweight framework designed to enhance FiveM servers with clean UI, optimized systems, and a modern gameplay experience.
+Each component is built to be standalone or easily integrated with others, allowing server owners to customize their setup without unnecessary complexity.
+
+This pack includes essential features such as a responsive HUD, a polished loadscreen, a dynamic pause menu, an intuitive inventory system, and simple job mechanics.
+VALORIA SX focuses on performance, visual consistency, and ease of use, making it ideal for both beginners and advanced developers looking for a solid foundation.
+
 ## 📋 Features ( for v0.3 )
 
 ### ⏳ Loadscreen (sx-loadscreen) [ STANDALONE ]
