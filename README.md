@@ -1,5 +1,7 @@
 # VALORIA SX
 
+## 📋 Features #### (for v0.3, see roadmap for other upcomming features)
+
 ## 🖼️ Screenshots
 ### Comming...
 
