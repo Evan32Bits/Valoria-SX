@@ -51,4 +51,6 @@ The sx-hud script add up to 6 fully fonctional stats bar to provide better and m
 - 💜 [My Twitch](https://twitch.tv/evan32bits) where I stream mostly between 13h(am) and 18h(6am) (UTC+1)
 - 🖤 [My Github](https://github.com/Evan32Bits) The owner of this repo
 
+### 🏛️ Legal
+All my code is own only by me you CANNOT redistribute it and it is under the protection of the myfistinyourface license. However you can edit/adapt it to your server but not give it to someone.
 
