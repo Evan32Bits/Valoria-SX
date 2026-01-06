@@ -1,4 +1,5 @@
-# VALORIA SX *WIP* `Im currently working on it and wait for a stable version to release`
+# VALORIA SX *WIP* 
+`Im currently working on it and wait for a stable version to release`
 
 **VALORIA SX** is a modular and lightweight framework designed to enhance FiveM servers with clean UI, optimized systems, and a modern gameplay experience.
 Each component is built to be standalone or easily integrated with others, allowing server owners to customize their setup without unnecessary complexity.
