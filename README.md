@@ -1,4 +1,3 @@
-[![Discord - 2 Members](https://img.shields.io/badge/Discord-2_Members-purple?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/g9HNXUxmht)
 # VALORIA SX
 
 **VALORIA SX** is a modular and lightweight framework designed to enhance FiveM servers with clean UI, optimized systems, and a modern gameplay experience.
@@ -45,5 +44,11 @@ The sx-hud script add up to 6 fully fonctional stats bar to provide better and m
 
 ### 💡 Your Ideas
 - None
+
+### 🔗 Links
+- 🩷 My Discord (Valoria SX has its own section on it) : discord.gg/g9HNXUxmht
+- ♥️ My Youtube channel (I speak mostly french on it but I also do EN tutorials) : www.youtube.com/@Evan32Bits
+- 💜 My Twitch : twitch.tv/evan32bits
+- 🖤 My Github : github.com/Evan32Bits
 
 
