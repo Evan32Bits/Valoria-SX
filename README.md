@@ -11,6 +11,7 @@ VALORIA SX focuses on performance, visual consistency, and ease of use, making i
 
 ### ⏳ Loadscreen (sx-loadscreen) [ STANDALONE ]
 ### 🌐 HUD (sx-hud) [ Dependencies : sx-player, sx-characters ]
+The sx-hud script add up to 6 fully fonctional stats bar to provide better and more information to the player like food oxygen health & more.
 ### 🔔 Notifications (sx-notify) [ STANDALONE ]
 ### 📱 Working Phone (sx-phone) [ Dependencies : sx-inventory(optional) ]
 ### 🚶‍➡️ Player (sx-player) [ Dependencies : sx-notify, database, oxmysql ]
