@@ -48,7 +48,7 @@ The sx-hud script add up to 6 fully fonctional stats bar to provide better and m
 ### 🔗 Links
 - 🩷 [My Discord](https://discord.gg/g9HNXUxmht) (Valoria SX has its own section on it)
 - ❤️ [My Youtube](https://youtube.com/@Evan32Bits) (I speak mostly french on it but I also do EN tutorials)
-- 💜 [My Twitch](https://twitch.tv/evan32bits)
-- 🖤 [My Github](https://github.com/Evan32Bits)
+- 💜 [My Twitch](https://twitch.tv/evan32bits) (I stream during the UTC+1)
+- 🖤 [My Github](https://github.com/Evan32Bits) (The owner of this repo)
 
 
