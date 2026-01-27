@@ -14,9 +14,9 @@ VALORIA SX focuses on performance, visual consistency, and ease of use, making i
 The sx-hud script add up to 6 fully fonctional stats bar to provide better and more information to the player like food oxygen health & more.
 ### 🔔ㆍ Notifications (sx-notify) `Standalone`
 ### 📱ㆍ Working Phone (sx-phone) `Dependencies : sx-inventory(optional)`
-### 🚶‍➡️ㆍ Player (sx-player) `Dependencies : sx-notify, database, oxmysq`
+### 🚶‍➡️ㆍ Player (sx-player) `Dependencies : sx-notify, MySQL DB, oxmysql`
 ### ⏯️ㆍ Pause Menu (sx-menu) `Standalone(classic) Dependencies(complete) : sx-player`
-### 📦ㆍ Inventory (sx-inventory) ` Dependencies : sx-notify, sx-player, oxmysql, database`
+### 📦ㆍ Inventory (sx-inventory) ` Dependencies : sx-notify, sx-player, oxmysql, MySQL DB`
 ### 👩‍🌾ㆍ Simple Jobs (sx-easyjobs) `Dependencies : sx-notify, sx-player`
 
 
