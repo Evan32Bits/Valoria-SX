@@ -2,20 +2,20 @@
 `Im currently working on it and wait for a stable version to release`
 
 **VALORIA SX** is a modular and lightweight framework designed to enhance FiveM servers with clean UI, optimized systems, and a modern gameplay experience.
-Each component is built to be standalone or easily integrated with others, allowing server owners to customize their setup without unnecessary complexity.
+Each component is built to be Standalone or easily integrated with others, allowing server owners to customize their setup without unnecessary complexity.
 
 This pack includes essential features such as a responsive HUD, a polished loadscreen, a dynamic pause menu, an intuitive inventory system, and simple job mechanics.
 VALORIA SX focuses on performance, visual consistency, and ease of use, making it ideal for both beginners and advanced developers looking for a solid foundation.
 
 ## 📋 Features `v0.3`
 
-### ⏳ㆍ Loadscreen (sx-loadscreen) `STANDALONE`
+### ⏳ㆍ Loadscreen (sx-loadscreen) `Standalone`
 ### 🌐ㆍ HUD (sx-hud) `Dependencies : sx-player, sx-characters`
 The sx-hud script add up to 6 fully fonctional stats bar to provide better and more information to the player like food oxygen health & more.
-### 🔔ㆍ Notifications (sx-notify) `STANDALONE`
+### 🔔ㆍ Notifications (sx-notify) `Standalone`
 ### 📱ㆍ Working Phone (sx-phone) `Dependencies : sx-inventory(optional)`
 ### 🚶‍➡️ㆍ Player (sx-player) `Dependencies : sx-notify, database, oxmysq`
-### ⏯️ㆍ Pause Menu (sx-menu) `STANDALONE(classic) Dependencies(complete) : sx-player`
+### ⏯️ㆍ Pause Menu (sx-menu) `Standalone(classic) Dependencies(complete) : sx-player`
 ### 📦ㆍ Inventory (sx-inventory) ` Dependencies : sx-notify, sx-player, oxmysql, database`
 ### 👩‍🌾ㆍ Simple Jobs (sx-easyjobs) `Dependencies : sx-notify, sx-player`
 
