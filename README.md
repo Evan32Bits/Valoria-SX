@@ -9,15 +9,15 @@ VALORIA SX focuses on performance, visual consistency, and ease of use, making i
 
 ## 📋 Features `v0.3`
 
-### ⏳ Loadscreen (sx-loadscreen) [ STANDALONE ]
-### 🌐 HUD (sx-hud) [ Dependencies : sx-player, sx-characters ]
+### ⏳ㆍ Loadscreen (sx-loadscreen) [ STANDALONE ]
+### 🌐ㆍ HUD (sx-hud) [ Dependencies : sx-player, sx-characters ]
 The sx-hud script add up to 6 fully fonctional stats bar to provide better and more information to the player like food oxygen health & more.
-### 🔔 Notifications (sx-notify) [ STANDALONE ]
-### 📱 Working Phone (sx-phone) [ Dependencies : sx-inventory(optional) ]
-### 🚶‍➡️ Player (sx-player) [ Dependencies : sx-notify, database, oxmysql ]
-### ⏯️ Pause Menu (sx-menu) [ STANDALONE(classic) Dependencies(complete) : sx-player ]
-### 📦 Inventory (sx-inventory) [ Dependencies : sx-notify, sx-player, oxmysql, database ]
-### 👩‍🌾 Simple Jobs (sx-easyjobs) [ Dependencies : sx-notify, sx-player ]
+### 🔔ㆍ Notifications (sx-notify) [ STANDALONE ]
+### 📱ㆍ Working Phone (sx-phone) [ Dependencies : sx-inventory(optional) ]
+### 🚶‍➡️ㆍ Player (sx-player) [ Dependencies : sx-notify, database, oxmysql ]
+### ⏯️ㆍ Pause Menu (sx-menu) [ STANDALONE(classic) Dependencies(complete) : sx-player ]
+### 📦ㆍ Inventory (sx-inventory) [ Dependencies : sx-notify, sx-player, oxmysql, database ]
+### 👩‍🌾ㆍ Simple Jobs (sx-easyjobs) [ Dependencies : sx-notify, sx-player ]
 
 
 ## 🖼️ Screenshots
