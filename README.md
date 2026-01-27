@@ -42,7 +42,7 @@ This script add delivery jobs, customizable and easy to configure.
 - Phone [ ALL ❌ ]
 - Pause menu [ OPEN_MAP ❌ | OPEN_SETTINGS ✅ | OPEN_SHOP ✅ | QUIT_SERVER ✅ ]
 - Inventory [ DROP ✅ | GIVE ❌ | USE ✅ ]
-- Documentation [ ~20% ]
+- Documentation [ fr-FR : 90% | en : 40% ]
 
 ### 🗓️ Upcoming (v0.4)
 - Performance improvements
