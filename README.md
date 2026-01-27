@@ -10,14 +10,23 @@ VALORIA SX focuses on performance, visual consistency, and ease of use, making i
 ## 📋 Features `v0.3`
 
 ### ⏳ㆍ Loadscreen (sx-loadscreen) `Standalone`
+A fully customizable loadscreen (cursor reactiv, custom colors & backgroud & more)
 ### 🌐ㆍ HUD (sx-hud) `Dependencies : sx-player, sx-characters`
 The sx-hud script add up to 6 fully fonctional stats bar to provide better and more information to the player like food oxygen health & more.
 ### 🔔ㆍ Notifications (sx-notify) `Standalone`
+Customized notifcation, responsive and easy to use.
 ### 📱ㆍ Working Phone (sx-phone) `Dependencies : sx-inventory(optional)`
+WIP
 ### 🚶‍➡️ㆍ Player (sx-player) `Dependencies : sx-notify, MySQL DB, oxmysql`
+The base for roleplaying : Health, Armor, Hunger, Thirst & Money (bank, cash, illegal) storing and export).
 ### ⏯️ㆍ Pause Menu (sx-menu) `Standalone(classic) Dependencies(complete) : sx-player`
-### 📦ㆍ Inventory (sx-inventory) ` Dependencies : sx-notify, sx-player, oxmysql, MySQL DB`
+A simple pause menu to remplace(classic) or complete the original GTA V pause menu.
+### 📦ㆍ Inventory (sx-inventories) `Dependencies : sx-notify, sx-player, oxmysql, MySQL DB`
+Fully working inventory : give, drop, use, with simple item creation.
+### 🏪ㆍ Shops (sx-shops) `Dependencies : sx-inventories, sx-player, sx-notify`
+Create shops with templates, works with sx-inventories but can be adapted to another inventory script.
 ### 👩‍🌾ㆍ Simple Jobs (sx-easyjobs) `Dependencies : sx-notify, sx-player`
+This script add delivery jobs, customizable and easy to configure.
 
 
 ## 🖼️ Screenshots
