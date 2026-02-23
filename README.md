@@ -10,34 +10,24 @@ Valoria SX prioritizes **performance**, **visual consistency**, and **ease of us
 
 ---
 
-## 📋 Features — `v0.3`
+## ✨ Features — v0.3
 
-### ⏳ Loadscreen — `sx-loadscreen` *(Standalone)*
-Fully customizable loadscreen with reactive cursor, custom colors, background options, animations, and configuration hooks.
+### 🎨 Interface & UX
+- **Loadscreen** — Customizable colors, backgrounds, animations, and reactive cursor.
+- **HUD** — Up to 6 status bars (health, armor, hunger, thirst, stamina, oxygen*), money display, fully responsive.
+- **Notifications** — Lightweight, customizable, export-ready notification system.
+- **Pause Menu** — Modern replacement/extension of the GTA V pause menu.
 
-### 🌐 HUD — `sx-hud` *(Dependencies: sx-player, sx-characters)*
-Up to six configurable status bars (health, armor, hunger, thirst, stamina, oxygen) plus money display (cash, bank, illegal). Clean, responsive layout designed for clarity and performance.
+### 🧩 Core Systems
+- **Player System** — Persistent health, armor, hunger, thirst, and money (cash/bank/illegal).
+- **Inventory** — Use, drop, give items, with simple item creation.
+- **Shops** — Template‑based shop system compatible with sx‑inventories.
+- **Simple Jobs** — Easy‑to‑configure delivery jobs.
 
-### 🔔 Notifications — `sx-notify` *(Standalone)*
-Customizable, responsive notification system with simple export hooks for other scripts.
+### 📱 WIP Modules
+- **Phone** — Base structure implemented, features coming in v0.4+.
 
-### 📱 Phone — `sx-phone` *(Optional dependency: sx-inventory)*
-Work in progress — core structure in place, features to be added in upcoming releases.
-
-### 🚶 Player System — `sx-player` *(Dependencies: sx-notify, MySQL DB, oxmysql)*
-Core player data management: health, armor, hunger, thirst, and money (cash, bank, illegal). Persistent storage and exportable events/APIs.
-
-### ⏯️ Pause Menu — `sx-menu` *(Standalone classic mode; full features require sx-player)*
-Modern pause menu to replace or extend the original GTA V pause menu with configurable entries and quick actions.
-
-### 📦 Inventory — `sx-inventories` *(Dependencies: sx-notify, sx-player, oxmysql, MySQL DB)*
-Fully functional inventory: use, drop, give items, and simple item creation. Designed for performance and easy integration.
-
-### 🏪 Shops — `sx-shops` *(Dependencies: sx-inventories, sx-player, sx-notify)*
-Shop templates and configuration system. Works out of the box with sx-inventories and can be adapted to other inventory systems.
-
-### 👩‍🌾 Simple Jobs — `sx-easyjobs` *(Dependencies: sx-notify, sx-player)*
-Lightweight delivery jobs system, configurable and easy to deploy for quick server content.
+\* Oxygen bar coming soon.
 
 ---
 
